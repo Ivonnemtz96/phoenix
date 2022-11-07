@@ -298,7 +298,7 @@
                 </div>
                 <div class="col-lg-6 col-12">
                     <div class="testimonial-img">
-                        <img src="assets/images/testimonial.png" alt="">
+                        <!-- <img src="assets/images/testimonial.png" alt=""> -->
                     </div>
                 </div>
             </div>
