@@ -4,10 +4,10 @@
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="wpo-breadcumb-wrap">
-                        <h2>Contact</h2>
+                        <h2>Contáctanos</h2>
                         <ol class="wpo-breadcumb-wrap">
-                            <li><a href="index.html">Home</a></li>
-                            <li>Contact</li>
+                            <li><a href="index.php">Inicio</a></li>
+                            <li>Contacto</li>
                         </ol>
                     </div>
                 </div>
@@ -31,8 +31,8 @@
                                         </div>
                                     </div>
                                     <div class="office-info-text">
-                                        <h2>Address</h2>
-                                        <p>7 Green Lake Street Crawfordsville, IN 47933</p>
+                                        <h2>Dirección</h2>
+                                        <p>San José del Cabo</p>
                                     </div>
                                 </div>
                             </div>
@@ -44,9 +44,9 @@
                                         </div>
                                     </div>
                                     <div class="office-info-text">
-                                        <h2>Email Us</h2>
-                                        <p>avadh@gmail.com</p>
-                                        <p>helloyou@gmail.com</p>
+                                        <h2>Correo</h2>
+                                        <p><a style="color: #484653;" href="mailto:">cesar@phoenixservices.com.mx</a>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -58,32 +58,35 @@
                                         </div>
                                     </div>
                                     <div class="office-info-text">
-                                        <h2>Call Now</h2>
-                                        <p>+1 800 123 456 789</p>
-                                        <p>+1 800 123 654 987</p>
+                                        <h2>Llámanos</h2>
+                                        <a style="color: #484653;" href="tel:1234567890">+52 123 456 7890</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="wpo-contact-title">
-                        <h2>Have Any Question?</h2>
-                        <p>It is a long established fact that a reader will be distracted
-                            content of a page when looking.</p>
+                        <h2>¿Tienes alguna duda o comentario?</h2>
+                        <p>
+                            Estamos listos para responder todas tus dudas y ayudarte a encontrar tu casa ideal.
+                        </p>
                     </div>
                     <div class="wpo-contact-form-area">
                         <form method="post" class="contact-validation-active" id="contact-form-main">
                             <div>
-                                <input type="text" class="form-control" name="name" id="name" placeholder="Your Name*">
+                                <input type="text" class="form-control" name="name" id="name" placeholder="Nombre*">
                             </div>
                             <div>
                                 <input type="email" class="form-control" name="email" id="email"
-                                    placeholder="Your Email*">
+                                    placeholder="Correo*">
                             </div>
                             <div>
-                                <input type="text" class="form-control" name="adress" id="adress" placeholder="Adress">
+                                <input type="text" class="form-control" name="tel" id="tel" placeholder="Teléfono">
                             </div>
                             <div>
+                                <input type="text" class="form-control" name="asunto" id="asunto" placeholder="Asunto">
+                            </div>
+                            <!-- <div>
                                 <select name="service" class="form-control">
                                     <option disabled="disabled" selected="">Services</option>
                                     <option>Architecture</option>
@@ -93,13 +96,13 @@
                                     <option>Perfect Cake</option>
                                     <option>All Of The Above</option>
                                 </select>
-                            </div>
+                            </div> -->
                             <div class="fullwidth">
                                 <textarea class="form-control" name="note" id="note"
-                                    placeholder="Message..."></textarea>
+                                    placeholder="Mensaje"></textarea>
                             </div>
                             <div class="submit-area">
-                                <button type="submit" class="theme-btn">Get in Touch</button>
+                                <button type="submit" class="theme-btn">Enviar</button>
                                 <div id="loader">
                                     <i class="ti-reload"></i>
                                 </div>
@@ -121,8 +124,10 @@
         <h2 class="hidden">Contact map</h2>
         <div class="wpo-contact-map">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.9147703055!2d-74.11976314309273!3d40.69740344223377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbd!4v1547528325671"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2976.8253219504086!2d-109.70700424097582!3d23.092207640175864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1667859655734!5m2!1ses-419!2smx"
                 allowfullscreen></iframe>
+
+                
         </div>
     </section>
     <!-- end wpo-contact-map -->
