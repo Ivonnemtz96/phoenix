@@ -585,6 +585,10 @@ img {
   flex-direction: column;
   z-index: 1;
 }
+
+.wpo-page-title2 {
+  background: url(../images/page-bg.jpg) no-repeat center top/cover;
+}
 @media (max-width: 767px) {
   .wpo-page-title {
     min-height: 250px;
