@@ -10,16 +10,17 @@
                     <div class="col col-lg-7 col-md-8 col-sm-12 slide-caption">
                         <div class="hero-slider-content">
                             <div class="slide-title">
-                                <h2>Get awesome
-                                    property from
-                                    avadh.</h2>
+                                <h2>Obtenga
+                                    la mejor
+                                    propiedad</h2>
                             </div>
                             <div class="slide-subtitle">
-                                <p>It seems that only fragments the original text remain the texts
-                                    also explain can now find slightly versions.</p>
+                                <p>
+                                    Phoenix Legal Services, nuestro servicio les da confianza a compradores y vendedores.
+                                </p>
                             </div>
                             <div class="btns">
-                                <a href="project-single.html" class="theme-btn">FIND PROJECT<i class="fi "></i></a>
+                                <a href="contact.php" class="theme-btn">Agendar cita<i class="fi "></i></a>
                             </div>
                         </div>
                     </div>
@@ -27,14 +28,12 @@
                         <div class="grid">
                             <div class="info">
                                 <h3>
-                                    58
+                                    +6
                                 </h3>
                             </div>
                             <div class="text">
-                                <h4>Years
-                                    Experience</h4>
-                                <span>It seems that only fragments
-                                    original text remain.</span>
+                                <h4>Años de experiencia</h4>
+                                <span>Nuestros años de experiencia y clientes nos respaldan</span>
                             </div>
                         </div>
                     </div>
@@ -51,14 +50,15 @@
                     <div class="col col-lg-7 col-md-8 col-sm-12 slide-caption">
                         <div class="hero-slider-content">
                             <div class="slide-title">
-                                <h2>Balkon Architecture Studio</h2>
+                                <h2>Phoenix Legal Services</h2>
                             </div>
                             <div class="slide-subtitle">
-                                <p>It seems that only fragments the original text remain the texts
-                                    also explain can now find slightly versions.</p>
+                                <p>
+                                    Llevando los más altos estándares de inmuebles hasta la palma de su mano.
+                                </p>
                             </div>
                             <div class="btns">
-                                <a href="project-single.html" class="theme-btn">FIND PROJECT</a>
+                                <a href="contact.php" class="theme-btn">Agendar cita</a>
                             </div>
                         </div>
                     </div>
@@ -66,14 +66,12 @@
                         <div class="grid">
                             <div class="info">
                                 <h3>
-                                    58
+                                    +6
                                 </h3>
                             </div>
                             <div class="text">
-                                <h4>Years
-                                    Experience</h4>
-                                <span>It seems that only fragments
-                                    original text remain.</span>
+                                <h4>Años de experiencia</h4>
+                                <span>Nuestros años de experiencia y clientes nos respaldan</span>
                             </div>
                         </div>
                     </div>
@@ -90,14 +88,15 @@
                     <div class="col col-lg-7 col-md-8 col-sm-12 slide-caption">
                         <div class="hero-slider-content">
                             <div class="slide-title">
-                                <h2>Creating Your Future With Affection</h2>
+                                <h2>La propiedad perfecta le espera</h2>
                             </div>
                             <div class="slide-subtitle">
-                                <p>It seems that only fragments the original text remain the texts
-                                    also explain can now find slightly versions.</p>
+                                <p>
+                                    No hay dos propiedades iguales, la que lo está esperando es única.
+                                </p>
                             </div>
                             <div class="btns">
-                                <a href="project-single.html" class="theme-btn">FIND PROJECT</a>
+                                <a href="contact.php" class="theme-btn">Agendar cita</a>
                             </div>
                         </div>
                     </div>
@@ -105,14 +104,12 @@
                         <div class="grid">
                             <div class="info">
                                 <h3>
-                                    58
+                                    +6
                                 </h3>
                             </div>
                             <div class="text">
-                                <h4>Years
-                                    Experience</h4>
-                                <span>It seems that only fragments
-                                    original text remain.</span>
+                                <h4>Años de experiencia</h4>
+                                <span>Nuestros años de experiencia y clientes nos respaldan</span>
                             </div>
                         </div>
                     </div>
@@ -132,28 +129,21 @@
                     <img src="assets/images/about.jpg" alt="">
                     <div class="about-left-text">
                         <img src="assets/images/about-left-shape.png" alt="">
-                        <h5>SINCE</h5>
-                        <span>1998</span>
+                        <h5>Desde</h5>
+                        <span>2016</span>
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 col-12">
                 <div class="about-right">
                     <div class="text">
-                        <span>MISSION AND VISSION</span>
-                        <h2>Break out of your routine with
-                            a global perspective.</h2>
-                        <p>It seems that only fragments the original of remain texts
-                            used today specul that over the course time certain letters
-                            were various positions.
+                        <span>¿Quiénes somos?</span>
+                        <h2>Phoenix Legal Services</h2>
+                        <p>
+                            Combinamos todos los recurss, conocimeintos y los años de experiencia en el mercado con nuestros profesionales de talla internacional. 
+                            Nuestro objetivo es proporcionar a nuestros clientes un cierre sin problemas y en tiempo, donde Phoenix Legal Services actúa como el principal coordinador de todas las partes involucradas en el proceso de cierre, desde que la oferta es aceptada por el vendedor hasta que el comprador obtiene un título/fideicomiso registrado brindando la confianza y seguridad que nuestros clientes necesitan guíandolos en todo el proceso.
                         </p>
-                        <ul>
-                            <li>Where To Invest In Real Estate.</li>
-                            <li>7 Pieces Of Advice To Newbies.</li>
-                            <li>OCutting Your Losses In Real Estate.</li>
-                            <li>50% Off All Organic Product</li>
-                        </ul>
-                        <a href="about.html" class="theme-btn">READ MORE</a>
+                        <a href="about.php" class="theme-btn">Ver más</a>
                     </div>
                 </div>
             </div>
@@ -171,8 +161,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 col-12">
                 <div class="wpo-section-title">
-                    <span>WHY CHOOSE US?</span>
-                    <h2>Get All Facilities In One Station</h2>
+                    <span>¿Porqué elegirnos?</span>
+                    <h2>Somos sus socios en la compraventa de inmuebles</h2>
                     <div class="shape-title">
                         <img src="assets/images/section-title-shape.png" alt="">
                     </div>
@@ -180,63 +170,50 @@
             </div>
         </div>
         <div class="scervice-wrap">
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-12">
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-4 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
                             <img src="assets/images/services/icon-1.png" alt="">
                         </div>
                         <div class="scervice-item-text">
                             <a href="service-single.html">
-                                <h2>Floor Plans</h2>
+                                <h2>Compañía de custodia dirigida por un abogado</h2>
                             </a>
-                            <p>It seem that only fragmen
-                                the original remain.</p>
+                            <!-- <p>It seem that only fragmen
+                                the original remain.</p> -->
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-12">
+                <div class="col-lg-4 col-md-4 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
                             <img src="assets/images/services/icon-2.png" alt="">
                         </div>
                         <div class="scervice-item-text">
                             <a href="service-single.html">
-                                <h2>FURNITURE</h2>
+                                <h2>Servicio de custodia con fines específicos <br><br></h2>
                             </a>
-                            <p>It seem that only fragmen
-                                the original remain.</p>
+                            <!-- <p>It seem that only fragmen
+                                the original remain.</p> -->
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-12">
+                <div class="col-lg-4 col-md-4 col-12">
                     <div class="scervice-item">
                         <div class="scervice-item-img">
                             <img src="assets/images/services/icon-3.png" alt="">
                         </div>
                         <div class="scervice-item-text">
                             <a href="service-single.html">
-                                <h2>PLANNING</h2>
+                                <h2>Fideicomiso privado y seguro de bienes raíces</h2>
                             </a>
-                            <p>It seem that only fragmen
-                                the original remain.</p>
+                            <!-- <p>It seem that only fragmen
+                                the original remain.</p> -->
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-12">
-                    <div class="scervice-item">
-                        <div class="scervice-item-img">
-                            <img src="assets/images/services/icon-4.png" alt="">
-                        </div>
-                        <div class="scervice-item-text">
-                            <a href="service-single.html">
-                                <h2>Decor Plan</h2>
-                            </a>
-                            <p>It seem that only fragmen
-                                the original remain.</p>
-                        </div>
-                    </div>
-                </div>
+               
             </div>
         </div>
     </div>
@@ -250,12 +227,12 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-7 col-12">
                     <div class="cta-left">
-                        <h2>Make your dream property.</h2>
+                        <h2>La propiedad de sus sueños.</h2>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-5 col-12">
                     <div class="cta-right">
-                        <a href="about.html" class="theme-btn">GET IN TOUCH</a>
+                        <a href="tel:1234567890" class="theme-btn">Llamar</a>
                     </div>
                 </div>
             </div>
