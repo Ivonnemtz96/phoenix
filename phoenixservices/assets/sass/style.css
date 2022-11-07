@@ -433,7 +433,7 @@ img {
 
 .theme-btn-s2 {
   background: #fff;
-  color: #0D0925;
+  color: #7b7a7ddb;
   display: inline-block;
   padding: 12px 22px;
   border: 1px solid #AC8D68;
@@ -596,7 +596,7 @@ img {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #070143;
+  background: #282210;
   content: "";
   z-index: -1;
   opacity: 0.5;
@@ -1071,7 +1071,7 @@ img {
 .blog-sidebar .recent-post-widget .post .details .date {
   font-size: 13px;
   font-size: calc-rem-value(13);
-  color: #0D0925;
+  color: #7b7a7ddb;
 }
 .blog-sidebar .recent-post-widget .post .details .date i {
   display: inline-block;
@@ -1098,7 +1098,7 @@ img {
 }
 .blog-sidebar .wpo-newsletter-widget span {
   font-size: 15px;
-  color: #0D0925;
+  color: #7b7a7ddb;
 }
 .blog-sidebar .wpo-newsletter-widget span a {
   color: #070143;
@@ -1545,7 +1545,7 @@ img {
   /* style for navigation less than 992px */
   /*navbar collaps less then 992px*/
   /*** cart-search-contact ***/
-  background-color: #0D1230;
+  background-color: #b5ae99;
   position: relative;
   z-index: 11;
 }
@@ -2518,7 +2518,7 @@ img {
     margin: 0;
   }
   .wpo-site-header #navbar {
-    background: #243352;
+    background: #b5ae99;
     display: block !important;
     width: 300px;
     height: 100%;
@@ -2928,7 +2928,7 @@ img {
   width: 100%;
   height: 100%;
   content: "";
-  background: #0D0925;
+  background: #7b7a7ddb;
   opacity: 0.5;
   z-index: -1;
 }
@@ -4182,7 +4182,7 @@ img {
   font-size: 42px;
   font-weight: 400;
   line-height: 53px;
-  color: #0D0925;
+  color: #7b7a7ddb;
   margin-top: 9px;
   margin-bottom: 23px;
 }
@@ -4278,7 +4278,7 @@ img {
 .wpo-service-section,
 .wpo-service-section-s2,
 .wpo-service-section-s3 {
-  background: #0D1230;
+  background: #F7F2EE;
   position: relative;
   z-index: 1;
   padding: 165px 0;
@@ -4440,7 +4440,7 @@ img {
   font-size: 26px;
   font-weight: 400;
   line-height: 35px;
-  color: #0D0925;
+  color: #7b7a7ddb;
   margin-top: 35px;
   text-transform: uppercase;
   transition: all 0.4s ease-in-out;
@@ -4623,7 +4623,7 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #0D0925;
+  background: #7b7a7ddb;
   opacity: 0;
   visibility: hidden;
   transition: all 0.4s ease-in-out;
@@ -4686,7 +4686,7 @@ img {
 }
 .wpo-team-section .team-wrapper .team-single .team-single-text a h2:hover,
 .wpo-team-section-s2 .team-wrapper .team-single .team-single-text a h2:hover {
-  color: #0D0925;
+  color: #7b7a7ddb;
 }
 .wpo-team-section .team-wrapper .team-single .team-single-text span,
 .wpo-team-section-s2 .team-wrapper .team-single .team-single-text span {
@@ -5136,7 +5136,7 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #0D0925;
+  background: #7b7a7ddb;
   opacity: 0.5;
   z-index: -1;
 }
@@ -5237,7 +5237,7 @@ img {
   font-size: 26px;
   font-weight: 400;
   line-height: 32px;
-  color: #0D0925;
+  color: #7b7a7ddb;
   margin-top: 50px;
   position: relative;
 }
@@ -5355,7 +5355,7 @@ img {
   content: "";
   width: 100%;
   height: 100%;
-  background: #0D0925;
+  background: #7b7a7ddb;
   z-index: -1;
   opacity: 0.9;
 }
@@ -5466,7 +5466,7 @@ img {
           clip-path: polygon(0 0, 100% 20%, 100% 100%, 0% 100%);
 }
 .wpo-blog-section .blog-wrapper .blog-single:hover .images .date span {
-  color: #0D0925;
+  color: #7b7a7ddb;
 }
 .wpo-blog-section .blog-wrapper .blog-single:hover .text {
   background: #AC8D68;
@@ -5509,7 +5509,7 @@ img {
           clip-path: polygon(0 0, 100% 20%, 100% 100%, 0% 100%);
 }
 .wpo-blog-section .blog-wrapper .wpo-blog-slider .owl-item.active.center .images .date span {
-  color: #0D0925;
+  color: #7b7a7ddb;
 }
 .wpo-blog-section .blog-wrapper .wpo-blog-slider .owl-item.active.center .text {
   background: #AC8D68;
@@ -5653,7 +5653,7 @@ img {
   }
 }
 .wpo-about-area-s2 .wpo-about-text .btns ul li.video-text a {
-  color: #0D0925;
+  color: #7b7a7ddb;
   font-weight: 600;
   width: 100%;
   height: 100%;
@@ -6039,7 +6039,7 @@ img {
 .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item .wpo-pricing-top .wpo-pricing-text h2 span,
 .wpo-pricing-section-s2 .wpo-pricing-wrap .wpo-pricing-item .wpo-pricing-top .wpo-pricing-text h2 span {
   font-weight: 500;
-  color: #0D0925;
+  color: #7b7a7ddb;
   font-size: 16px;
   text-transform: uppercase;
 }
@@ -7311,7 +7311,7 @@ img {
   color: #AC8D68;
 }
 .wpo-shop-section .details del {
-  color: #0D0925;
+  color: #7b7a7ddb;
 }
 .wpo-shop-section .details del + span {
   display: inline-block;
@@ -7573,7 +7573,7 @@ img {
   background-color: #fff;
   font-size: 18px;
   font-size: calc-rem-value(18);
-  color: #0D0925;
+  color: #7b7a7ddb;
   border: 1px solid #e6e6e6;
 }
 .wpo-shop-single-section .product-details #product-count {
@@ -7642,7 +7642,7 @@ img {
 .wpo-shop-single-section .product-info .nav-tabs a {
   font-size: 15px;
   font-size: calc-rem-value(15);
-  color: #0D0925;
+  color: #7b7a7ddb;
   border: 0;
   border-radius: 0;
   margin: 0;
@@ -8628,7 +8628,7 @@ img {
   }
 }
 .wpo-blog-pg-section .post a.read-more {
-  color: #0D0925;
+  color: #7b7a7ddb;
   text-transform: capitalize;
   font-size: 16px;
 }
@@ -9093,7 +9093,7 @@ img {
   text-transform: capitalize;
   background: none;
   text-decoration: underline;
-  color: #0D0925;
+  color: #7b7a7ddb;
 }
 .wpo-blog-single-section .author-box {
   margin: 35px 0 60px;
@@ -9244,7 +9244,7 @@ img {
 .wpo-blog-single-section .more-posts .post-control-link {
   font-size: 14px;
   font-size: calc-rem-value(14);
-  color: #0D0925;
+  color: #7b7a7ddb;
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 2px;
@@ -9341,7 +9341,7 @@ img {
 .wpo-blog-single-section .comments-area .comments-meta h4 span {
   font-size: 15px;
   font-size: calc-rem-value(15);
-  color: #0D0925;
+  color: #7b7a7ddb;
   font-weight: normal;
   text-transform: none;
   display: inline-block;

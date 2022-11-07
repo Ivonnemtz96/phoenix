@@ -154,18 +154,18 @@
 
 <!-- start wpo-service-section -->
 <section class="wpo-service-section">
-    <div class="shape-1">
+    <!-- <div class="shape-1">
         <img src="assets/images/scervice-shap-1.png" alt="">
-    </div>
+    </div> -->
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 col-12">
                 <div class="wpo-section-title">
                     <span>¿Porqué elegirnos?</span>
-                    <h2>Somos sus socios en la compraventa de inmuebles</h2>
-                    <div class="shape-title">
+                    <h2 style="color:#AC8D68 ;">Somos sus socios en la compraventa de inmuebles</h2>
+                    <!-- <div class="shape-title">
                         <img src="assets/images/section-title-shape.png" alt="">
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
