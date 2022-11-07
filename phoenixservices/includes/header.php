@@ -51,14 +51,14 @@
                     </div>
                     <div class="col-lg-3 col-md-5 col-6">
                         <div class="navbar-header">
-                            <a class="navbar-brand" href="index.php"><img src="assets/images/logo.svg" alt=""></a>
+                            <a class="navbar-brand" href="index.php">LOGO</a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-1 col-1">
                         <div id="navbar" class="collapse navbar-collapse navigation-holder">
                             <button class="menu-close"><i class="ti-close"></i></button>
                             <ul class="nav navbar-nav mb-2 mb-lg-0">
-                                <li >
+                                <li>
                                     <a class="active" href="index.php">Inicio</a>
                                     <!--class="menu-item-has-children"
                                      <ul class="sub-menu">
@@ -69,6 +69,13 @@
                                     </ul> -->
                                 </li>
                                 <li><a href="about.php">Nosotros</a></li>
+                                <li class="menu-item-has-children">
+                                    <a href="#">Nosotros</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="about.php">Nosotros</a></li>
+                                        <li><a href="partners.php">Asóciate con nosotros</a></li>
+                                        <li><a href="giveback.php">Devolución</a></li>
+                                    </ul>
                                 <li><a href="services.php">Servicios</a></li>
                                 <!-- <li><a href="about.html"></a></li> -->
                                 <!-- <li class="menu-item-has-children">
