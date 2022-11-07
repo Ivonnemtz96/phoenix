@@ -4,10 +4,10 @@
             <div class="row">
                 <div class="col col-xs-12">
                     <div class="wpo-breadcumb-wrap">
-                        <h2>Sobre Phoenix Legal Services</h2>
+                        <h2>Asóciate con Phoenix Legal Services</h2>
                         <ol class="wpo-breadcumb-wrap">
                             <li><a href="index.php">Inicio</a></li>
-                            <li>Nosotros</li>
+                            <li>Asóciate</li>
                         </ol>
                     </div>
                 </div>
@@ -16,42 +16,70 @@
     </section>
     <!-- end page-title -->
 
-    <!--start wpo-about-section -->
-    <section class="wpo-about-section section-padding">
+    <!-- start wpo-service-section -->
+    <section class="wpo-service-section">
         <div class="container">
-            <div class="row align-items-center">
+            <div class="row justify-content-center">
                 <div class="col-lg-6 col-12">
-                    <div class="about-left">
-                        <img src="assets/images/about.jpg" alt="">
-                        <div class="about-left-text">
-                            <img src="assets/images/about-left-shape.png" alt="">
-                            <h5>Desde</h5>
-                            <span>2016</span>
-                        </div>
+                    <div class="wpo-section-title">
+                        <span>¿Porqué elegirnos?</span>
+                        <h2 style="color:#AC8D68 ;">Somos sus socios en la compraventa de inmuebles</h2>
+                        <!-- <div class="shape-title">
+                        <img src="assets/images/section-title-shape.png" alt="">
+                    </div> -->
                     </div>
                 </div>
-                <div class="col-lg-6 col-12">
-                    <div class="about-right">
-                        <div class="text">
-                            <span>¿Quiénes somos?</span>
-                            <h2>Phoenix Legal Services</h2>
-                            <p>
-                                Combinamos todos los recurss, conocimeintos y los años de experiencia en el mercado con
-                                nuestros profesionales de talla internacional.
-                                Nuestro objetivo es proporcionar a nuestros clientes un cierre sin problemas y en
-                                tiempo, donde Phoenix Legal Services actúa como el principal coordinador de todas las
-                                partes involucradas en el proceso de cierre, desde que la oferta es aceptada por el
-                                vendedor hasta que el comprador obtiene un título/fideicomiso registrado brindando la
-                                confianza y seguridad que nuestros clientes necesitan guíandolos en todo el proceso.
-                            </p>
-                            <a href="about.php" class="theme-btn">Ver más</a>
+            </div>
+            <div class="scervice-wrap">
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <div class="scervice-item">
+                            <div class="scervice-item-img">
+                                <img src="assets/images/services/icon-1.png" alt="">
+                            </div>
+                            <div class="scervice-item-text">
+                                <a href="service-single.html">
+                                    <h2>Compañía de custodia dirigida por un abogado</h2>
+                                </a>
+                                <!-- <p>It seem that only fragmen
+                                the original remain.</p> -->
+                            </div>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <div class="scervice-item">
+                            <div class="scervice-item-img">
+                                <img src="assets/images/services/icon-2.png" alt="">
+                            </div>
+                            <div class="scervice-item-text">
+                                <a href="service-single.html">
+                                    <h2>Servicio de custodia con fines específicos <br><br></h2>
+                                </a>
+                                <!-- <p>It seem that only fragmen
+                                the original remain.</p> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <div class="scervice-item">
+                            <div class="scervice-item-img">
+                                <img src="assets/images/services/icon-3.png" alt="">
+                            </div>
+                            <div class="scervice-item-text">
+                                <a href="service-single.html">
+                                    <h2>Fideicomiso privado y seguro de bienes raíces</h2>
+                                </a>
+                                <!-- <p>It seem that only fragmen
+                                the original remain.</p> -->
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
     </section>
-    <!--end wpo-about-section -->
+    <!-- end wpo-service-section -->
 
 
     <!-- start wpo-team-section -->
