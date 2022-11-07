@@ -6,9 +6,21 @@
                 <div class="col col-xl-10 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="contact-intro">
                         <ul>
-                            <li><span>Email:</span>avadh@gmail.com</li>
-                            <li><span>Phone:</span>+ 8 (123) 123 456 789</li>
-                            <li><span>Location:</span> Fna city, LH 3656, USA</li>
+                            <li>
+                                <span>Correo: </span>
+                                <a style="color:#66717A;"
+                                    href="mailto:cesar@phoenixservices.com.mx">cesar@phoenixservices.com.mx
+                                </a>
+                            </li>
+                            <li>
+                                <span>Teléfono:</span>
+                                <a style="color:#66717A;" href="tel:1234567890">+52 123 456 7890
+                                </a>
+                            </li>
+                            <li>
+                                <span>Dirección:</span>
+                                San José del Cabo
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -16,9 +28,7 @@
                     <div class="contact-info">
                         <ul>
                             <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
                             <li><a href="#"><i class="ti-instagram"></i></a></li>
-                            <li><a href="#"><i class="ti-google"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -41,24 +51,27 @@
                     </div>
                     <div class="col-lg-3 col-md-5 col-6">
                         <div class="navbar-header">
-                            <a class="navbar-brand" href="index.html"><img src="assets/images/logo.svg" alt=""></a>
+                            <a class="navbar-brand" href="index.php"><img src="assets/images/logo.svg" alt=""></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-1 col-1">
                         <div id="navbar" class="collapse navbar-collapse navigation-holder">
                             <button class="menu-close"><i class="ti-close"></i></button>
                             <ul class="nav navbar-nav mb-2 mb-lg-0">
-                                <li class="menu-item-has-children">
-                                    <a class="active" href="#">Home</a>
-                                    <ul class="sub-menu">
+                                <li >
+                                    <a class="active" href="index.php">Inicio</a>
+                                    <!--class="menu-item-has-children"
+                                     <ul class="sub-menu">
                                         <li><a href="index.html">Home style 1</a></li>
                                         <li><a class="active" href="index-2.html">Home style 2</a></li>
                                         <li><a href="index-3.html">Home style 3</a></li>
                                         <li><a href="index-4.html">Home style 4</a></li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
-                                <li><a href="about.html">About Us</a></li>
-                                <li class="menu-item-has-children">
+                                <li><a href="about.php">Nosotros</a></li>
+                                <li><a href="services.php">Servicios</a></li>
+                                <!-- <li><a href="about.html"></a></li> -->
+                                <!-- <li class="menu-item-has-children">
                                     <a href="#">project</a>
                                     <ul class="sub-menu">
                                         <li><a href="project-1.html">projects 1</a></li>
@@ -101,15 +114,15 @@
                                             </ul>
                                         </li>
                                     </ul>
-                                </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                </li> -->
+                                <!-- <li><a href="contact.php">Contact</a></li> -->
                             </ul>
 
                         </div><!-- end of nav-collapse -->
                     </div>
                     <div class="col-lg-3 col-md-4 col-2">
                         <div class="header-right">
-                            <div class="header-search-form-wrapper">
+                            <!-- <div class="header-search-form-wrapper">
                                 <div class="cart-search-contact">
                                     <button class="search-toggle-btn"><i class="fi flaticon-search"></i></button>
                                     <div class="header-search-form">
@@ -121,10 +134,10 @@
                                         </form>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
                             <div class="close-form">
-                                <a class="theme-btn" href="contact.html">BOOKING NOW</a>
+                                <a class="theme-btn" href="contact.php">Contáctanos</a>
                             </div>
                         </div>
                     </div>
